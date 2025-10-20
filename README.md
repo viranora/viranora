@@ -9,10 +9,6 @@
     <em> ai & data science </em>
   </p>
 
-  <!-- Açıklama -->
-  <p style="max-width:600px; margin:auto; font-size:16px; color:#CCCCCC;">
-    I live in Istanbul and I'm a third-year computer engineering student. I'm passionate about artificial intelligence, data science, and software development. I also work as a software instructor, sharing what I learn while continuing to grow. I love exploring new technologies, building creative solutions, and blending logic with design.
-  </p>
 
   <!-- GitHub Rozeti -->
   <br>
