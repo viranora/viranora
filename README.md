@@ -2,9 +2,11 @@
   <!-- Başlık --> 
   <h2 style="color:#FF2E63;">Hello there</h2>
 
-
-
-
+<br>
+<br>
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMngzb2tqZ2VuYmd4OGh0b3VydXc3MGQwaG1jb3FiamR0Y2ZyYjFwbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/41WrN8fQ1f2kTQ8LQD/giphy.gif
+<br>
+<br>
 
   <!-- GitHub Rozeti -->
   <br>
