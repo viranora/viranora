@@ -4,8 +4,9 @@
 
 <br>
 <br>
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMngzb2tqZ2VuYmd4OGh0b3VydXc3MGQwaG1jb3FiamR0Y2ZyYjFwbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/41WrN8fQ1f2kTQ8LQD/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRnZzVkeWJsaDdwZXU4NWc1dGZjNHFvNm9pMWxnaWppMTVrd3F5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnzP4cmBsiOrccg20V/giphy.gif)" alt="Minimal Coding Vibe" width="300" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRnZzVkeWJsaDdwZXU4NWc1dGZjNHFvNm9pMWxnaWppMTVrd3F5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnzP4cmBsiOrccg20V/giphy.gif" alt="Minimal Coding Vibe" width="300" />
 <br>
+
 <br>
 
   <!-- GitHub Rozeti -->
