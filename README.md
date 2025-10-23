@@ -2,12 +2,6 @@
   <!-- Başlık --> 
   <h2 style="color:#FF2E63;">Hello there</h2>
 
-<br>
-<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRnZzVkeWJsaDdwZXU4NWc1dGZjNHFvNm9pMWxnaWppMTVrd3F5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnzP4cmBsiOrccg20V/giphy.gif" alt="Minimal Coding Vibe" width="300" />
-<br>
-
-<br>
 
   <!-- GitHub Rozeti -->
   <br>
