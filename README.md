@@ -1,9 +1,6 @@
-<div style="background-color:#0A0A0A; padding:20px; border-radius:10px;" align="center">
-
-  <!-- GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkNWtmb2Q5c3lobjlxcXVjMXFyODd1bXBwbXE2cXZzcXU0YzQ3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lny6Rw04nsOOc/giphy.gif" alt="Blinking Cursor" width="300" />
-
-
+<div style="background-color:#0A0A0A; padding:20px; border-radius:10px;" align="center"> 
+  <!-- Başlık --> 
+  <h2 style="color:#FF2E63;">Hello there</h2>
 
 </div>
 
