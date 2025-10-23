@@ -7,11 +7,6 @@
 
 </div>
 
- 
-
-  <!-- Başlık -->
-  <h2 style="color:#FF2E63;">Hello there</h2>
-
 
 
   <!-- GitHub Rozeti -->
