@@ -5,9 +5,7 @@
 
   <!-- Başlık -->
   <h2 style="color:#FF2E63;">Hello there</h2>
-  <p style="font-size:18px; color:#FFB6C1; margin-top:-10px;">
-    <em> ai & data science </em>
-  </p>
+
 
 
   <!-- GitHub Rozeti -->
